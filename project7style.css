@@ -1,0 +1,33 @@
+#main-heading {
+		color: blue;
+		text-align: center;
+}
+
+h2 {
+    	text-align: center;
+}
+
+.place-description{
+		font-family: Verdana;
+		font-color: olive;
+}
+
+.person-description{
+		font-color: purple;
+}
+
+.top-favorite{
+		font-color:red
+		font-size: bold
+		<span> strawberries </span>
+}
+
+.important-point{
+		text-decoration: underline;
+		<span>He writes about the characters in a different way.</span>
+	
+}
+
+.emphasis{
+		font-style: italics;
+}
