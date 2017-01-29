@@ -1,6 +1,7 @@
 #main-heading {
-		color: blue;
 		text-align: center;
+		color: blue;
+		
 }
 
 h2 {
@@ -27,5 +28,5 @@ h2 {
 }
 
 .emphasis{
-		font-style: italics;
+		font-style: italic;
 }
