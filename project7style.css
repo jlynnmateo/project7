@@ -11,6 +11,7 @@ h2 {
 .place-description{
 		font-family: Verdana;
 		color: olive;
+		
 }
 
 .person-description{
@@ -18,8 +19,8 @@ h2 {
 }
 
 .top-favorite{
-		color:red
 		font-weight: bold
+		color:red
 }
 
 .important-point{
