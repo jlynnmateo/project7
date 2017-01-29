@@ -9,16 +9,16 @@ h2 {
 
 .place-description{
 		font-family: Verdana;
-		font-color: olive;
+		color: olive;
 }
 
 .person-description{
-		font-color: purple;
+		color: purple;
 }
 
 .top-favorite{
-		font-color:red
-		font-size: bold
+		color:red
+		font-weight: bold
 }
 
 .important-point{
