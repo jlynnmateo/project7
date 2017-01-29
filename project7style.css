@@ -1,4 +1,4 @@
-id="main-heading" {
+#main-heading {
 		color: blue;
 		text-align: center;
 }
@@ -7,25 +7,25 @@ h2 {
     	text-align: center;
 }
 
-class="place-description"{
+.place-description{
 		font-family: Verdana;
 		font-color: olive;
 }
 
-class="person-description"{
+.person-description{
 		font-color: purple;
 }
 
-class="top-favorite"{
+.top-favorite{
 		font-color:red
 		font-size: bold
 }
 
-class="important-point"{
+.important-point{
 		text-decoration: underline;
 	
 }
 
-class="emphasis"{
+.emphasis{
 		font-style: italics;
 }
